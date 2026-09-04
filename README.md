@@ -4,7 +4,9 @@ A Machine Learning project that predicts a student's final grade (G3) based on a
 
 ## 🚀 Live Demo
 
-Coming soon...
+## 🚀 Live Demo
+
+👉 [Try the Student Performance Prediction App](https://studentpreformanceprediction-bxjysntatgzrif2lhuf7vg.streamlit.app/)
 
 ## 📌 Project Overview
 
