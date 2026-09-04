@@ -4,7 +4,7 @@ import pandas as pd
 import joblib
 
 # Load trained model
-loaded_model = joblib.load("/content/student_model.pkl")
+loaded_model = joblib.load("student_model.pkl")
 
 # Page configuration
 st.set_page_config(
